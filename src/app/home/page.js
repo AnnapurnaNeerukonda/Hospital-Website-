@@ -16,6 +16,7 @@ const HomePage = () => {
           <h3>Annapurna</h3>
           <h3>Nikitha</h3>
           <h3>kalyani</h3>
+          <h3>Renuka</h3>
         </div>
       </div>
     </div>
