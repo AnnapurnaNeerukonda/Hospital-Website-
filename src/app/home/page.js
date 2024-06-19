@@ -11,6 +11,10 @@ const HomePage = () => {
         <a href="#" className="text-blue-500 hover:text-gray-300 underline">
           Explore More
         </a>
+        < div className='mt-5'>
+        <h1 className="text-4xl font-bold mb-4"><span className='text-blue-600'>Piltovr</span> Interns</h1>
+          <h3>Annapurna</h3>
+        </div>
       </div>
     </div>
   );
