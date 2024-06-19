@@ -15,6 +15,7 @@ const HomePage = () => {
         <h1 className="text-4xl font-bold mb-4"><span className='text-blue-600'>Piltovr</span> Interns</h1>
           <h3>Annapurna</h3>
           <h3>Nikitha</h3>
+          <h3>kalyani</h3>
         </div>
       </div>
     </div>
