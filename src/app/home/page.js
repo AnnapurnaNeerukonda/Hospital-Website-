@@ -16,7 +16,11 @@ const HomePage = () => {
           <h3>Annapurna</h3>
           <h3>Nikitha</h3>
           <h3>kalyani</h3>
+<<<<<<< HEAD
           <h3>Renuka</h3>
+=======
+          <h3>Bhuvana</h3>
+>>>>>>> 1093b0744f0d86f22f3fbc0f698f60e914cade2f
         </div>
       </div>
     </div>
